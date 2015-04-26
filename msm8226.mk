@@ -122,13 +122,6 @@ PRODUCT_PACKAGES += \
     resize2fs \
     setup_fs
 
-# FM
-PRODUCT_PACKAGES += \
-    FM2 \
-    FMRecord \
-    libqcomfm_jni \
-    qcom.fmradio
-
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8226
